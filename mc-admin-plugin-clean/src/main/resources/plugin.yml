@@ -1,0 +1,6 @@
+name: McAdminPlugin
+version: '1.0.0'
+main: com.mcadmin.plugin.McAdminPlugin
+api-version: '1.20'
+author: You
+description: Exposes a simple HTTP API to manage players (list, kick, ban, warn via LiteBan) for use with a mobile/PC admin app.

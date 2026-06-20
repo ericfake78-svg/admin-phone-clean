@@ -1,0 +1,14 @@
+# McAdminPlugin Configuration
+#
+# IMPORTANT: Change the api-key below to something long and random.
+# Anyone with this key can kick/ban/warn players and see your player list.
+# Treat it like a password.
+#
+# Example of a strong key: a random 32+ character string.
+# You can generate one at https://www.random.org/strings/ or just mash your keyboard.
+
+api-key: "changeme"
+
+# The port the HTTP API listens on.
+# Make sure this matches the port you opened/allocated in your hosting panel.
+port: 8080
